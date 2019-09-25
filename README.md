@@ -22,6 +22,7 @@ portfolio
 Тестировать локально
 
 git clone https://github.com/Esmiral/personal-page.git
-cd apollo
+
+cd personal-page
 
 Открыть index.html
