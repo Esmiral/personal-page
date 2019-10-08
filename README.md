@@ -17,7 +17,7 @@ portfolio
     
     Форма обратной связи (Ajax, PHP)
 
-[Онлайн демо](https://github.com/Esmiral/personal-page.git)
+[Онлайн демо](https://esmiral.github.io/personal-page/)
 
 Тестировать локально
 
